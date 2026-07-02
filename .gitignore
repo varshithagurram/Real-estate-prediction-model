@@ -1,0 +1,29 @@
+# Virtual Environments (The massive 12,000+ files folder!)
+venv/
+.venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Python caching and compiled bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Large Datasets and Files (Prevents GitHub size errors)
+*.csv
+*.xlsx
+*.json
+*.pkl
+*.h5
+*.joblib
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# IDE / Operating System files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
