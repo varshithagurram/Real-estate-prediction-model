@@ -1,7 +1,7 @@
 # Bengaluru Real Estate Valuation & Investment Engine
 
 ## 🔗 Professional Profiles & Artifacts
-* **LinkedIn:** [Your Name / LinkedIn Profile URL](https://linkedin.com/in/varshitha-gurram-1797252aa)
+* **LinkedIn:** [Varshitha Gurram/ LinkedIn Profile URL](https://linkedin.com/in/varshitha-gurram-1797252aa)
 * **GitHub Repository:** [Project Repository URL](https://github.com/varshithagurram/Real-estate-prediction-model)
 * **Tableau Public Dashboard:** [Interactive Market Dashboard URL](https://public.tableau.com/app/profile/varshitha.g2368/viz/BengaluruRealEstate/Dashboard1?publish=yes)
 
